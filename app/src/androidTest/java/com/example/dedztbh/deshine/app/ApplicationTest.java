@@ -1,4 +1,4 @@
-package com.example.dedztbh.deshine;
+package com.example.dedztbh.deshine.app;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
