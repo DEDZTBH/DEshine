@@ -10,11 +10,13 @@
 
     <string name="pref_location_label">Location</string>
     <string name="pref_location_key" translatable="false">location</string>
-    <string name="pref_location_default" translatable="false">Hartford</string>
+    <string name="pref_location_default" translatable="false">06001</string>
 
     <string name="pref_unit_label">Unit</string>
     <string name="pref_unit_key" translatable="false">m</string>
-    <string name="pref_unit_default">1</string>
+    <string name="pref_unit_default">m</string>
+    <string name="pref_unit_imperial">i</string>
+    <string name="pref_unit_metric">m</string>
 
 
 </resources>

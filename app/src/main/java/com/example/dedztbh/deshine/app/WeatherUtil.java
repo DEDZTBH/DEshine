@@ -102,7 +102,7 @@ public class WeatherUtil {
             double low = temperatureObject.getDouble(OWM_MIN);
 
             highAndLow = formatHighLows(high, low);
-            resultStrs[i] = day + " - " + description + " - " + highAndLow;
+            resultStrs[i] = day + " —— " + description + " —— " + highAndLow;
         }
 
 
